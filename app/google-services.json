@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752032873870",
+    "project_id": "veerangana-33647",
+    "storage_bucket": "veerangana-33647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752032873870:android:9050e030f235fd402fb8df",
+        "android_client_info": {
+          "package_name": "com.lucky.veerangana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfC3zU3LoCHbaBuFehtuuB8_uaUrJ-q34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
